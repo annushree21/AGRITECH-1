@@ -291,19 +291,19 @@ can be solved by customizing the steps of some degree so that the bot can perfor
 that the steps can be modified to smaller height and regular terrain on the vertical wall.
 
 ## Team Members
-Annushree
-Avdesh Kumar Ranwa
-Debaditya Barman
-Dhruv Shehgal
-Naveen Chandra Rai
-Ruchika Guntewar
-Shashi Muchkund
-Shubham Goyal
-Tabish Madni
-Visvash Attri
+Annushree<br>
+Avdesh Kumar Ranwa<br>
+Debaditya Barman<br>
+Dhruv Shehgal<br>
+Naveen Chandra Rai<br>
+Ruchika Guntewar<br>
+Shashi Muchkund<br>
+Shubham Goyal<br>
+Tabish Madni<br>
+Visvash Attri<br>
 
 ## Mentors
-Anant Shandalya
+Anant Shandalya<br>
 Shubhanshu Aggrawal
 
 
