@@ -213,25 +213,27 @@ the stair on front and middle wheels.
 • The bot also has an ability to lift itself above the crop for traversing in the field.
 
 ## Cost Structure
-###  Component              Number used    Cost INR
-Planetary Geared Motor           4           19,996
-Arduino Mega 2560                1              800
-Node MCU Esp8266                 1              260
-Motor Driver                     6           15,000
-Battery                          3             4997
-Heavy Duty Wheels                4              900
-Caster Wheels                    4              200
-Johnson motor                    5             1996
-Rotary Encoder                   3             4497
-Ultrasonic Sensor                5              900
-Mpu9250                          1              190
-Dht11 temperature                1              108
-Soil Moisture Sensor             1               75
-Bump Sensor                      4              400
-Lead screw                       3             2397
-Material for Body               ----           4000
-Manufacturing                   ----           3500
-**Total Cost-                                  60,216**
+ |Component       | Number used  | Cost INR|
+ |---|----|---|
+ | Planetary Geared Motor    |     4     |   19,996|
+  |Arduino Mega 2560     |         1     |    800|
+  |Node MCU Esp8266    |           1    |        260|
+  |Motor Driver       |            6        |  15,000|
+  |Battery            |           3      |  4997|
+  |Heavy Duty Wheels   |             4          |    900|
+  |Caster Wheels        |           4     |   200|
+  |Johnson motor             |  5     |        1996|
+  |Rotary Encoder     |             3   |        4497|
+  |Ultrasonic Sensor  |             5    |         900|
+  |Mpu9250           |             1    |          190|
+  |Dht11 temperature  |              1     |     108|
+  |Soil Moisture Sensor  |            1    |        75|
+  |Bump Sensor           |           4     |        400|
+  |Lead screw            |         3       |    2397|
+  |Material for Body    |          ----   |        4000|
+  |Manufacturing            |      ----  |         3500|
+|**Total Cost- **   |     |   **60,216**|
+
 
 
 ## Future Improvement
